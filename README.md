@@ -1,5 +1,4 @@
-# Credit-Card-Fraud-Detection
-<h1 align="center"> Credit Fraud Detector </h1>
+<h1 align="center"> Credit-Card-Fraud-Detection </h1>
 
 
 <h2> Introduction </h2>
@@ -27,4 +26,4 @@ a) Distributing and Correlating<br>
 b) Oversampling with SMOTE<br><br>
 
 IV. <b>Testing </b><br>
-a) Testing with Logistic Regression<br>
+a) Testing br>
