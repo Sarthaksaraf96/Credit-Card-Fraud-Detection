@@ -30,7 +30,9 @@ a) Testing
 
 <h2> Conclusion </h2>
 1) The logistic regression model, after applying SMOTE for dealing with class imbalance, achieved good performance in terms of accuracy and recall for the minority class. 
+
 2) However, the precision for the minority class is low, indicating a high number of false positives.
 Further optimization of the model or exploration of other models could potentially improve the performance, especially in terms of precision for the minority class.
-3) It's also important to consider the business context and the cost associated with false positives and false negatives when evaluating the model's performance.
+
+4) It's also important to consider the business context and the cost associated with false positives and false negatives when evaluating the model's performance.
 
